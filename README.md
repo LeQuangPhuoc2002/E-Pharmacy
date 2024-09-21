@@ -1,4 +1,4 @@
-# E-pharmacy
+# E-Pharmacy
 This is a web project for selling pharmaceuticals using Java Servlet technology and employing the MVC architecture. The website incorporates various features for both users and administrators.
 
 ![Alt text](https://raw.githubusercontent.com/LeQuangPhuoc2002/E-pharmacy/main/Screenshot%202023-12-28%20101523.png)
